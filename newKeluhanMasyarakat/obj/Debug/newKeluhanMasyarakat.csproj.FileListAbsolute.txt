@@ -1,0 +1,44 @@
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\newKeluhanMasyarakat.exe.config
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\newKeluhanMasyarakat.exe
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\newKeluhanMasyarakat.pdb
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\MySqlConnector.dll
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Buffers.dll
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Memory.dll
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Numerics.Vectors.dll
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\MySqlConnector.xml
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Buffers.xml
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Memory.xml
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Numerics.Vectors.xml
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.csproj.AssemblyReference.cache
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.csproj.CoreCompileInputs.cache
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.csproj.CopyComplete
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.exe
+E:\Kuliah\Jam Kuliah\Komputer\C# 1\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.pdb
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\newKeluhanMasyarakat.exe.config
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\newKeluhanMasyarakat.exe
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\newKeluhanMasyarakat.pdb
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\MySqlConnector.dll
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Buffers.dll
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Memory.dll
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Numerics.Vectors.dll
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\MySqlConnector.xml
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Buffers.xml
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Memory.xml
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Numerics.Vectors.xml
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.csproj.AssemblyReference.cache
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.csproj.CoreCompileInputs.cache
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.csproj.CopyComplete
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.exe
+E:\Kuliah\Jam Kuliah\Komputer\C#\newKeluhanMasyarakat\newKeluhanMasyarakat\obj\Debug\newKeluhanMasyarakat.pdb
